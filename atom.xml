@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nxblog.tk</id>
+    <title>NanXing&apos;s blog</title>
+    <updated>2022-12-29T08:54:28.523Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nxblog.tk"/>
+    <link rel="self" href="https://nxblog.tk/atom.xml"/>
+    <subtitle>分享知识，书写心情</subtitle>
+    <logo>https://nxblog.tk/images/avatar.png</logo>
+    <icon>https://nxblog.tk/favicon.ico</icon>
+    <rights>All rights reserved 2022, NanXing&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Navicat 教育版申请]]></title>
+        <id>https://nxblog.tk/post/navicat-student/</id>
+        <link href="https://nxblog.tk/post/navicat-student/">
+        </link>
+        <updated>2022-12-29T06:52:55.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="什么是-navicat">什么是 Navicat？</h2>
+<p>Navicat 是香港卓软数字科技有限公司生产的一系列MySQL、MariaDB、MongoDB、Oracle、SQLite、PostgreSQL 及 Microsoft SQL Server 的图形化数据库管理及发展软件。它有一个类似浏览器的图形用户界面，支持多重连线到本地和远程数据库。</p>
+<h2 id="第一步填写-napp-申请表">第一步：填写 NAPP 申请表</h2>
+<p>在浏览器中打开 Navicat 教育版申请官网：<br>
+<strong>申请网站链接：<a href="https://www.navicat.com.cn/sponsorship/education/student">https://www.navicat.com.cn/sponsorship/education/student</a></strong></p>
+<p>打开网站后会有一个「Navicat 学术伙伴计划（NAPP）- 学生 - 申请表」，按照表中的内容填写即可。</p>
+<figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2022/12/29/D4va2ZdclHpW5uM.jpg" alt="NAPP申请表" loading="lazy"></figure>
+<h2 id="第二步接收邮件">第二步：接收邮件</h2>
+<p>大概 1-2 天，在填写的教育邮箱内会接收到 Navicat 的邮件和一个申请表格。<br>
+<img src="https://s2.loli.net/2022/12/29/h5JcQz1ewYTRx6I.jpg" alt="接收Navicat邮件" loading="lazy"></p>
+<h2 id="第三步学信网申请学籍验证信息">第三步：学信网申请学籍验证信息</h2>
+<p>打开学信档案：<a href="https://my.chsi.com.cn/archive/index.jsp"><strong>学信档案官网</strong></a><br>
+<img src="https://s2.loli.net/2022/12/29/nL6QTxw5GdE1M39.jpg" alt="进入学信档案" loading="lazy"></p>
+<p>点击「学籍」<br>
+<img src="https://s2.loli.net/2022/12/29/cKiEJLnCPxu9M41.jpg" alt="点击学籍" loading="lazy"></p>
+<p>点击「查看该学籍的在线验证报告」<br>
+<img src="https://s2.loli.net/2022/12/29/5ozFEabVCjnw7BT.jpg" alt="查看该学籍的在线验证报告" loading="lazy"></p>
+<p>点击「申请」申请在线验证报告<br>
+<img src="https://s2.loli.net/2022/12/29/nSadPQxu3DJ7CX1.jpg" alt="申请" loading="lazy"></p>
+<h2 id="第三步填写表格">第三步：填写表格</h2>
+<p>截图「教育部学籍在线验证报告」，填写到「Navicat 教育版申请信息」表格中。<br>
+<img src="https://s2.loli.net/2022/12/29/LCG1awIKEdegBuz.jpg" alt="填写表格" loading="lazy"></p>
+<h2 id="第四步回复邮件把填写的表格添加到附件中">第四步：回复邮件，把填写的表格添加到附件中</h2>
+<p>回复 Navicat 邮件后，会再次接收到一封邮件<br>
+<img src="https://s2.loli.net/2022/12/29/qkvVpSbmUdO2QPo.jpg" alt="收到回复" loading="lazy"></p>
+<p>等待申请完成即可！</p>
+<h2 id="第五步申请成功">第五步：申请成功</h2>
+<p>申请成功后会接收到两封邮件</p>
+<p>Navicat ID 和密码：<br>
+<img src="https://s2.loli.net/2022/12/29/g1l7ONYwqLxb395.jpg" alt="会员注册" loading="lazy"></p>
+<p>教育版包含的产品以及下载链接：<br>
+<img src="https://s2.loli.net/2022/12/29/dfJK5j8LDXerAT6.jpg" alt="申请完成" loading="lazy"></p>
+<p>下载相关软件登录即可免费使用！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 如何使用 5G 频段热点分享网络]]></title>
+        <id>https://nxblog.tk/post/001-windows-11-5g-wifi/</id>
+        <link href="https://nxblog.tk/post/001-windows-11-5g-wifi/">
+        </link>
+        <updated>2022-10-24T01:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="引言">引言</h2>
+<p>电脑安装 Windows 11 后，发现无法开启 5 GHz 频段的移动热点，在网上摸索一段时间后，终于在微软社区发现了解决方法。</p>
+<blockquote>
+<p><a href="https://answers.microsoft.com/zh-hans/windows/forum/all/win10%E6%97%A0%E6%B3%95%E5%BC%80%E5%90%AF5g/8b9a0462-2f2b-4d51-9b82-cbff93593576">此问题原因是由于 Intel 响应国家的监管限制而进行的设定，虽然 Intel 提供了相应的解决方法，但是由此产生的问题将由您承担。</a></p>
+</blockquote>
+<p>网页链接：<a href="https://answers.microsoft.com/zh-hans/windows/forum/all/win10%E6%97%A0%E6%B3%95%E5%BC%80%E5%90%AF5g/8b9a0462-2f2b-4d51-9b82-cbff93593576">点击进入网页</a></p>
+<h2 id="第一步打开设备管理器">第一步：打开设备管理器</h2>
+<p>在 Windows 11 自带的搜索栏搜索「设备管理器」，并打开<br>
+<img src="https://s2.loli.net/2022/12/29/w5zfpHXxi8Ph32v.png" alt="搜索设备管理器" loading="lazy"></p>
+<h2 id="第二步更改网卡设置">第二步：更改网卡设置</h2>
+<p>在<strong>设备管理器</strong>中打开<strong>网络适配器</strong>，双击你的 intel 网卡，在<strong>高级</strong>选项中找到 802.11a/b/g 无线模式，选择值为 5GHz 频段。<br>
+<img src="https://s2.loli.net/2022/12/29/4DGFq1rS8m6ZcWU.png" alt="设置网卡选项" loading="lazy"></p>
+<h2 id="第三步打开-5g-热点">第三步：打开 5G 热点</h2>
+<p>在右下角 Wifi 处单击打开快速设置，右键点击「移动热点」，单击「转入设置」打开移动热点设置页面。<br>
+<img src="https://s2.loli.net/2022/12/29/P826MpGQFYWkNCd.png" alt="打开移动热点设置" loading="lazy"></p>
+<p>或者直接在搜索栏搜索「移动热点」。</p>
+<figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2022/12/29/CeHkguPOx2hqQmM.png" alt="搜索移动热点" loading="lazy"></figure>
+<p>在移动热点设置中选择 5GHz。</p>
+<figure data-type="image" tabindex="2"><img src="https://s2.loli.net/2022/12/29/p5sYno9Sf4QtEgz.png" alt="在移动热点设置中选择5GHz" loading="lazy"></figure>
+<p>打开热点，完成！</p>
+<h2 id="注意">注意</h2>
+<ul>
+<li>不知道什么原因，打开热点时需要把 Clash 代理节点设置为直连。</li>
+<li>如果没有效果，建议更改为原来的设置，然后再去搜索其他方法。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://nxblog.tk/post/hello-gridea/</id>
+        <link href="https://nxblog.tk/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
